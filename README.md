@@ -85,4 +85,4 @@ The table contains:
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you would like to add features or improve the pipeline.
 
-This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+This available under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
