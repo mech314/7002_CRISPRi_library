@@ -1,8 +1,7 @@
 # Illumina Sequence Analysis Pipeline
 
 This pipeline processes Illumina sequence data to:
-- Trim sequences at 95% accuracy.
-- Perform global alignment.
+- Perform high % identity (95%) global alignment.
 - Extract read counts.
 - Run differential expression analysis using **DESeq2** in R.
 - Combine all log-fold change (LFC) data into one comprehensive dataframe for downstream analysis.
@@ -85,3 +84,5 @@ The table contains:
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you would like to add features or improve the pipeline.
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
