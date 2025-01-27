@@ -19,10 +19,8 @@ This pipeline processes Illumina sequence data to:
 The pipeline is written in Python and R, and requires the following dependencies:
 
 ### **Python Dependencies**
-- `re`
 - `tqdm`
 - `polars`
-- `pathlib`
 - `argparse`
 
 #### Install Python packages via pip:
