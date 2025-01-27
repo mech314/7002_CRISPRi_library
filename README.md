@@ -1,3 +1,9 @@
+# Background
+CRISPR/Cas9-mediated transcriptional interference (CRISPRi) enables programmable gene knockdown, producing loss-of-function phenotypes for virtually any gene. Systematic genetic analysis—the comprehensive evaluation of phenotypes across a large, defined collection of genetic perturbations—is a powerful approach for uncovering the organizing principles of molecular and cellular processes. These analyses provide quantitative phenotypic profiles, which are a rich and nuanced source of information, and identify key candidate genes in the style of classical genetic screens.
+
+In this study, we developed a CRISPRi/Cas9 knockdown library for the autotrophic cyanobacterium Synechococcus sp. PCC 7002. The library was tested under varying environmental conditions, including temperature (37°C vs. 22°C) and growth light wavelengths (white, red, and blue light). Differentially expressed genes under these conditions highlighted the importance of specific metabolic pathways in response to light and temperature variations. This pipeline can be readily adapted to analyze high-throughput DNA/RNA sequencing data to study gene expression across diverse experimental conditions and organisms.
+
+
 # Illumina Sequence Analysis Pipeline
 
 This pipeline processes Illumina sequence data to:
