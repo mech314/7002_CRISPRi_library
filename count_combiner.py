@@ -87,7 +87,7 @@ class CountCombiner:
         # Create metafile for DESeq2
         self.meta_df = pl.DataFrame(data)
 
-        # Save the metadata DataFrame to a CSV file
+        # Save metadata
         self.meta_df.write_csv("metadata.csv")
         print("Metadata file 'metadata.csv' created successfully.")
 
