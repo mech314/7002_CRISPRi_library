@@ -1,0 +1,1 @@
+"""Alignment module for extracting read counts from aligned sequences."""
